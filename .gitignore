@@ -177,7 +177,4 @@ TSWLatexianTemp*
 *.backup
 
 # KBibTeX
-*~[0-9]*
-
-ThinkTopic.pdf
-ThinkTopic.tex
+*~[0-9]~*
